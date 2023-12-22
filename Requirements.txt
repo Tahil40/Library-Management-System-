@@ -1,0 +1,8 @@
+..................Please install required Libraries..................................... 
+.....open cmd or command prompts or powershell and run the following commands.......
+
+pip install --upgarde pip 
+pip install mysql-connector-python 
+pip install mysql-connector 
+
+use the password that is given in possword,py file or you can set the password according to your choice
