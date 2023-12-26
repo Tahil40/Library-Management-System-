@@ -27,6 +27,7 @@ This is a Simple Library management system using tkinter and mysql-connector
 8.) Comment out this two functions objects after running the programme because the second time the database is already exists......
 ![Screenshot (16)_LI](https://github.com/Tahil40/Library-Management-System-/assets/116889476/0d3659ed-25c6-4613-a35f-ec576bd7144d)
 
+
 EXPLANATION OF PROGRAMME=>>>>>>>>>MUST READ ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️  
 
 LIBRARIES USED>>>>>>
@@ -38,19 +39,24 @@ MEDIA USED>>>>>>>
 2. password.py(conatins the password)
 
 EXPLANATION OF PROGRAMME.................>>>>>>
+
 This project is created by using oops(Object Orientied Programming Language) in Python. 
 
 ![Screenshot (20)](https://github.com/Tahil40/Library-Management-System-/assets/116889476/633fc9a2-a22b-415f-bd90-45572618b5be)
+
 Importing libraries Creating Class By Giving The Name Management.
  
 ![Screenshot (21)](https://github.com/Tahil40/Library-Management-System-/assets/116889476/f2ffd547-c194-4403-aef2-439e185e0704)
+
 Inherited the class Management by The Class Tk() and creating the Variable named root in the Name function.
 
 ![Screenshot (23)](https://github.com/Tahil40/Library-Management-System-/assets/116889476/f4480ab2-a298-41c5-9c8e-e7e61fbb9ab7)
+
 Created Constructor(__init__).
 
 1.) In this constructor the class variables are created for setting the   
-     main windows configuration. 
+     main windows configuration.
+     
 2.) Customizing Obejcts are created to give to give the color to the 
     widgets and setting the columns for treeview widget. 
 
@@ -58,6 +64,7 @@ Created Constructor(__init__).
     database like- HostName, user, Password and Database Name. 
 
 ![Screenshot (33)](https://github.com/Tahil40/Library-Management-System-/assets/116889476/b7671b69-7601-4d41-822c-948ae31b7e0c)
+
 Creating Frames By Variables Name Frames_1(Left Frame) and Frame_2(Right Frame) and creating the Buttons in Frame_2 Variable.
 Buttons are created in Right Frame.
 
